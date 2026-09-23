@@ -1,6 +1,6 @@
 ---
 name: asm
-description: Patches the game's code when the data alone cannot solve the problem — finding the routine, hooking it without disturbing what works, and verifying that nothing else broke. Use when a limit is enforced by code rather than by data: a print routine that rejects byte values, a hardcoded length, a bank never switched.
+description: "Patches the game's code when the data alone cannot solve the problem — finding the routine, hooking it without disturbing what works, and verifying that nothing else broke. Use when a limit is enforced by code rather than by data: a print routine that rejects byte values, a hardcoded length, a bank never switched."
 ---
 
 # Assembly
